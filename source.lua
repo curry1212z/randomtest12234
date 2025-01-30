@@ -18,8 +18,7 @@ local startTime = os.clock()
 repeat wait() until game:IsLoaded()
 
 
-loadstring(https://raw.githubusercontent.com/curry1212z/randomtest12234/refs/heads/main/adonis.lua))()
-
+loadstring("https://raw.githubusercontent.com/curry1212z/randomtest12234/refs/heads/main/adonis.lua"))()
 
 if not LPH_OBFUSCATED then
     LPH_JIT = function(...) return ... end
